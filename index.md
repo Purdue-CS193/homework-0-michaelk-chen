@@ -1,3 +1,10 @@
+# Michael's First CS193 Homework
+
+- I am excited to discover new ways to improve my for-fun projects
+- If we do markdown stuff like this in the future, I look forward to it because I have dealt with basic levels of markdown
+- This class isn't too busy yet it seems like it will teach valuable information
+- (I don't have a good idea of exactly what we will be doing so take this list with a grain of salt)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
